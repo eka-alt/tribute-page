@@ -1,0 +1,50 @@
+body{
+	font-family: sans-serif;
+	text-align:center;
+	background-color: #eee;
+	display: inline-block;
+}
+
+h1{
+	
+	width: 50%;
+	margin: 0 auto;
+
+}
+img{
+	width: 80%;
+}
+figcaption{
+  width: 100%;
+  font-size: 0.9rem;
+}
+figure{
+	background-color: white;
+}
+li{
+	text-align: left;
+	line-height: 1.5rem;
+	
+}
+
+
+section{
+	width: 70%;
+	text-align:center;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
